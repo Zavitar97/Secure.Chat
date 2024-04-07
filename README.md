@@ -1,4 +1,4 @@
-# chatt-server
+# CHATT-Server
 ## Description
 CHATT (Compact Helpful Asynchronous Text Transmission) Server. Utilizes asymmetric RSA encryption for private and secure communication.
 ## Getting Started
